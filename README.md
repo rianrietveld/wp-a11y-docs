@@ -1,9 +1,6 @@
-## WordPress Accessibility Knowledge Base
 
-This site is in development and not ready yet.
+This repo is archived and no longer maintained.
 
+See for the current WP Accessibilty Knowledge Base repo: [github.com/wpaccessibility/wp-a11y-docs](https://github.com/wpaccessibility/wp-a11y-docs)
 
-The theme is based on the Jekyll theme [Just the docs](https://just-the-docs.github.io/just-the-docs/).
-
-GitHub pages for this repo: [wpaccessibility.github.io/wp-a11y-docs](https://wpaccessibility.github.io/wp-a11y-docs/).
 
