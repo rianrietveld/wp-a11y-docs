@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: minimal
 nav_order: 1
 description: "Documentation about the accessibility of WordPress. For the community, by the community."
 permalink: /
